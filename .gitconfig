@@ -1,0 +1,14 @@
+[user]
+	email = phuoctran27@gmail.com
+	name = Joseph Tran
+
+[credential]
+	helper = cache --timeout=3600
+
+[alias]
+	graph = log --all --graph --decorate --oneline
+
+[color "status"]
+	added = yellow
+	changed = green
+	untracked = cyan
